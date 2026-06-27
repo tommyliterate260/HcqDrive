@@ -129,3 +129,4 @@ HcqDrive 不是唯一选择。如果你有不同的需求,可以看看:
 ## 给贡献者
 
 发版流程和 release 签名密钥的设置方式见 [`docs/release-process.md`](docs/release-process.md)。
+完整版本历史见 [`CHANGELOG.md`](CHANGELOG.md)。
