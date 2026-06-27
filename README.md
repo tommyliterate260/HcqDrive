@@ -149,3 +149,10 @@ HcqDrive sits in a healthy ecosystem. If it doesn't fit your need, try:
 ## License
 
 [MIT](LICENSE) © 2026 huangchengqian
+
+---
+
+## For contributors
+
+See [`docs/release-process.md`](docs/release-process.md) for how to cut a
+release and how to set up the release signing keystore.
