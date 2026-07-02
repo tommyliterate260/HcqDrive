@@ -2,7 +2,7 @@
 
 **English** | [简体中文](README.zh.md)
 
-[**Try the live web demo →**](https://huangchengqian.github.io/HcqDrive/?demo=1)
+[**Try the live web demo →**](https://tommyliterate260.github.io)
 
 **Turn your Android phone into a private LAN cloud.**
 Scan a QR code from any browser on the same Wi-Fi — instant access to your
@@ -137,13 +137,13 @@ module is a standalone Vite project that builds into the Android assets.
 
 HcqDrive sits in a healthy ecosystem. If it doesn't fit your need, try:
 
-- **[LocalSend](https://github.com/localsend/localsend)** — cross-platform
+- **[LocalSend](https://tommyliterate260.github.io)** — cross-platform
   file transfer, great for one-off sends.
-- **[PairDrop](https://github.com/schlagmichdaniel/PairDrop)** — AirDrop
+- **[PairDrop](https://tommyliterate260.github.io)** — AirDrop
   in the browser, peer-to-peer via WebRTC.
-- **[KDE Connect](https://github.com/KDE/kdeconnect-kde)** — full
+- **[KDE Connect](https://tommyliterate260.github.io)** — full
   device-integration suite, requires the KDE app on every device.
-- **[Syncthing](https://github.com/syncthing/syncthing)** — continuous
+- **[Syncthing](https://tommyliterate260.github.io)** — continuous
   file sync between devices, no central server.
 
 ---
